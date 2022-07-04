@@ -31,4 +31,4 @@ Essayer de motiver les autres et raconter de chose comiques
 
 Voici une histoire drole à propos de moi.
 
-[<< previous](https://github.com/LoaW/challenge-markdown/blob/main/Description.md) || Charles Xavier ||[<< previous](https://github.com/DanielaCo1/challenge-markdown/blob/main/README.md)
+[<< previous](https://github.com/LoaW/challenge-markdown/blob/main/Description.md) || Charles Xavier ||[ next >>](https://github.com/DanielaCo1/challenge-markdown/blob/main/README.md)
